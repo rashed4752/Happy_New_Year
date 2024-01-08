@@ -69,7 +69,14 @@ a{
     font-family: 'Inter', sans-serif;
     margin: 15px 0px;
 }
-
+.offer_dis{
+    color: red;
+}
+.offer_sub_title{
+    font-size: 35px;
+    font-family: 'Inter';
+    margin-top: 10px;
+}
 .offer_img{
     width: 500px;
 }
