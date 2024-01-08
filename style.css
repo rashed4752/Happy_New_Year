@@ -1,0 +1,76 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Merriweather:wght@400;700;900&display=swap');
+
+/* -------------------- */
+/* body style css start*/
+*{
+    padding: 0;
+    margin: 0;
+}
+/*-------------------------*/
+
+/* Common Css style start */
+body{
+    font-family: 'Merriweather', serif;
+}
+a{
+    text-decoration: none;
+}
+/*--------------------------*/
+/* header css style start */
+.header_section{
+    width: 88%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.header_section img{
+    width: 1200px;
+    height: 600px;
+    position: relative;
+    
+}
+.overlay{
+    position: absolute;
+    width: 1200px;
+    height: 600px;
+    background: linear-gradient(180deg, #020B11 0%, rgba(7, 2, 17, 0.00) 100%);
+    /* background-color: rgb(255, 0, 0); */
+    top: 20px;
+    left: 82px;
+    border-radius: 30px;
+}
+.text{
+    color: aliceblue;
+    position: absolute;
+    top: 36%;
+    left: 36%;
+    text-align: center;
+}
+.heder_title2{
+    margin-top: 10px;
+    width: 321px;
+    font-size: 40px;
+}
+/* ----------------------------- */
+/* 65% Of Section strt */
+.Offer_65_off_Sec{
+    width: 50%;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+    text-align: center;
+}
+.offer_sec{
+    padding: 50px 0;
+}
+.offer_sec >h2{
+    font-size: 40px;
+    color: red;
+    font-family: 'Inter', sans-serif;
+    margin: 15px 0px;
+}
+
+.offer_img{
+    width: 500px;
+}
+/* ---------------------- */
