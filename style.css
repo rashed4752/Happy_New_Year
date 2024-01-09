@@ -183,12 +183,10 @@ a{
 
 /* new year comming soon section */
 .new_year_section{
-    width: 88%;
+    width: 85%;
     margin: 20px auto;
     display: flex;
     padding: 10px;
-    /* background-color: rgb(0, 0, 0); */
-    justify-content: space-between;
 }
 .first_colum{
     width: 395px;
