@@ -305,11 +305,11 @@ a{
     left: -105px;
 }
 .bbbs{
-    width: 1026px;
+    width: 985px;
     height: 80px;
     position: absolute;
     top: 3295px;
-    left: 133px;
+    left: 173px;
 }
 /* ------------------------------- */
 
@@ -321,15 +321,16 @@ a{
 .our_awsome_portfolio h4{
     font-family: 'Inter';
     color: red;
-    margin: 15px 0px;
+    margin: 15px 40px;
 }
 .our_awsome_portfolio h2{
-    margin: 15px 0px;
+    margin: 15px 40px;
 }
 .our_awsome_portfolio p{
     width: 494px;
     font-size: 12px;
     line-height: 20px;
+    margin-left: 40px;
     margin-bottom: 40px;
     color: rgba(7, 2, 17, 0.60);
 }
@@ -338,13 +339,14 @@ a{
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
     width: 994px;
+    margin: 0 auto;
   }
   
 .grid img{
     width: 100%;
 }
 .grid img {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     border-radius: 18px;
 }
 /* ------------------------------ */
