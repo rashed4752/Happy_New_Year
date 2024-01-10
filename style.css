@@ -337,6 +337,7 @@ a{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
+    width: 994px;
   }
   
 .grid img{
@@ -349,5 +350,44 @@ a{
 /* ------------------------------ */
 
 /* newsletter section css style  */
+.newsletter_section{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.newsletter_section img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+.newsletter_section h1{
+    margin-bottom: 20px;
+}
+.newsletter_section p {
+    width: 553px;
+    margin: 0 auto;
+    font-size: 12px;
+    color: rgba(7, 2, 17, 0.60);
+    line-height: 20px;
+    margin-bottom: 30px
+}
+.newsletter_section input {
+    margin-bottom: 50px;
+    margin-right: 100px;
+    width: 200px;
+    height: 23px;
+    padding: 14px;
+    border-radius: 20px 0px 0px 20px;
+    position: relative;
+    border: none;
+}
+.subscribe_EmailButton {
+    background: red;
+    padding: 17px 25px;
+    display: inline-block;
+    border-radius: 0px 20px 20px 0px;
+    position: absolute;
+    left: 739px;
+    color: #fff;
+}
 
 /* --------------------------------- */
