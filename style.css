@@ -391,3 +391,62 @@ a{
 }
 
 /* --------------------------------- */
+
+/* footer section end section  */
+.contract_and_addres_sec{
+    width: 80%;
+    height: 430px;
+    margin: 50px auto;
+    background: #070211;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.copyright_1 {
+    font-size: 10px;
+    margin-top: 53px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.copyright_2 {
+    float: right;
+    margin-top: 53px;
+    font-size: 9px;
+    margin-right: 20px;
+}
+.footer_title {
+    width: 256px;
+    font-size: 13px;
+    margin-top: 76px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+    line-height: 29px;
+    display: inline-block;
+}
+.footer_call_web {
+    width: 300px;
+    float: right;
+    margin-top: 76px;
+}
+.calweb {
+    display: block;
+    line-height: 25px;
+}
+
+.footer_icon_sec{
+    text-align: center;
+    margin: 60px 0px;
+}
+.footer_icon_sec img{
+    width: 40px;
+    margin-left: 12px;
+}
+.new1 {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    background-image: linear-gradient(to right, #040303, #ccc, #040303);
+    width: 600px;
+    margin: 10px auto;
+}
+/* ------------------------------ */
